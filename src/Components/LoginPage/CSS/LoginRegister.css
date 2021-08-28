@@ -1,0 +1,26 @@
+.registerBackground{
+    background-image: url(../Images/register.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 95vh;
+}
+
+.page-content{
+    display: flex;
+	display: -webkit-flex;
+	justify-content: center;
+	-o-justify-content: center;
+	-ms-justify-content: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+}
+
+.form-row{
+    display: block;
+    margin-right: 10px;
+}
+
+input[type=submit]{
+    margin-top:20px;
+}

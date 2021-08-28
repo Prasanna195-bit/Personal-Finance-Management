@@ -1,0 +1,14 @@
+.creditContainer{
+    background-image: url(./Images/Credits.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+.creditHeading{
+    color: white;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}

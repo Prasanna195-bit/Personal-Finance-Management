@@ -1,0 +1,16 @@
+.transactionview-background {
+    background-image: url(./Images/TransactionView.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 95vh;
+    height: 100%;
+}
+
+.transactioncreate-background {
+    background-image: url(./Images/TransactionCreate.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 95vh;
+}

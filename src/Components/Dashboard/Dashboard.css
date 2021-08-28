@@ -1,0 +1,13 @@
+.sidebyside {
+    margin: auto;
+}
+
+.sideDiv {
+    float: left;
+    padding-bottom: 30px;
+}
+
+h5.chartName {
+    text-align: center;
+    padding-top: 20px;
+}

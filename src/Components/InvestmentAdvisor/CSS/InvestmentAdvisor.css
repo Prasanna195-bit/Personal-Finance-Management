@@ -1,0 +1,15 @@
+.background-container {
+    background-image: url(../Images/InvestmentAdvisor.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:105vh;
+}
+
+.contents {
+    margin-left: 2%;
+}
+
+form {
+    margin-left: 2%;
+}
